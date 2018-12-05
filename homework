@@ -1,0 +1,14 @@
+s1="saeed najm"
+s2="23 age"
+i1=3
+f1=2.3
+vars=[s1,s2,i1,f1]
+print(type(vars))
+print(type(vars[0]))
+print(type(vars[1]))
+print(type(vars[2]))
+print(type(vars[3]))
+print(vars[0])
+print(vars[3])
+vars[3]=4.3
+print(vars)
